@@ -1,0 +1,6 @@
+race,gender,age,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,medical_specialty
+Caucasian,Male,[70-80),1,1,7,5,45.0,1,13,0.0,0,2,250.83,276,401,9,Cardiology
+AfricanAmerican,Female,[60-70),3,1,1,3,30.0,0,10,,0,0,414,250,,6,InternalMedicine
+Hispanic,Male,[80-90),2,3,7,7,,2,18,0.0,0,3,410,428,585,9,Unknown
+,Other,[40-50),1,1,1,1,20.0,0,6,2.0,0,0,250,272,401,4,Family/GeneralPractice
+Asian,Female,[30-40),5,18,9,10,60.0,3,25,1.0,2,5,786,250,518,10,
