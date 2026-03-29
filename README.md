@@ -117,6 +117,16 @@ The model generates:
 * `risk_level` → Low / Medium / High
 
 ---
+##  Why This Project Matters
+
+Hospital readmissions are a critical healthcare metric linked to:
+- Patient outcomes
+- Hospital penalties
+- Healthcare costs
+
+This model helps identify high-risk patients early, enabling proactive intervention.
+
+---
 
 ##  Limitations
 
